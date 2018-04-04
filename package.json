@@ -1,0 +1,17 @@
+{
+  "name": "Sea_Klasa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "klasa": "^0.5.0-dev"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
