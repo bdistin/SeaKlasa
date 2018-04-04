@@ -2,13 +2,14 @@
   "name": "Sea_Klasa",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.js",
   "dependencies": {
     "discord.js": "github:discordjs/discord.js",
-    "klasa": "^0.5.0-dev"
+    "klasa": "github:dirigeants/klasa"
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
